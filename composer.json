@@ -1,0 +1,18 @@
+{
+    "name": "ovr/hipster",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dmitry Patsura",
+            "email": "talk@dmtry.me"
+        }
+    ],
+    "require": {
+        "ovr/phpsa": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Hipster\\": "src"
+        }
+    }
+}

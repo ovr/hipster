@@ -1,1 +1,2 @@
-# hipster
+PHP Hipster
+===========
